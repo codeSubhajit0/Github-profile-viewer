@@ -1,1 +1,1 @@
-[link of the page]("google.com")
+[Link of the page]('google.com')
