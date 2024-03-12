@@ -50,10 +50,10 @@ function getUserInfo(user) {
     e.preventDefault();
     
     const user = search.value;
-    userProfile.style = 'opacity:1';
     
-  if(user){
-    getUser(user);
-    search.value = '';
+    if(user){
+      getUser(user);
+      search.value = '';
+      userProfile.style = 'opacity:1';
   }
 });

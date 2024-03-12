@@ -1,1 +1,1 @@
-[Link of the page]('google.com')
+[Link of the page]('https://codesubhajit0.github.io/Github-profile-viewer/')
